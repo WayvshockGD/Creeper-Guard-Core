@@ -1,0 +1,17 @@
+{
+  "name": "creeper-guard-core",
+  "version": "1.0.0",
+  "description": "THe main core of creeper-guard a discord bot for king deads server (private)",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "eris": "^0.14.0"
+  }
+}
